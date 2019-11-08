@@ -1,1 +1,5 @@
-package work
+package main
+
+func main() {
+
+}
